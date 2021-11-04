@@ -1,6 +1,6 @@
-Herman Tolpinrud Aagaard
+# Herman Tolpinrud Aagaard
 
-Dataingeniør NTNU Trondheim
+# Computer Science NTNU Trondheim
 
 ## Github Stats  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oketda&layout=compact&theme=dark&exclude_repo=Java-grunnkurs,Java-Programming-2&hide=Jupyter Notebook" />
